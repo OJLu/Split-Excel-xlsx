@@ -14,6 +14,6 @@
 #1.安装Python3.7  
 #2.点击运行install.bat，安装依赖包  
 #3.将待拆分的表格放到代码所在目录下，默认为1.xlsx, Sheet1  
-#4.在config.py中更改参数  
+#4.在config.py中更改列名参数  
 #5.点击运行start.bat  
 #6.拆分结果在代码所在目录下  
